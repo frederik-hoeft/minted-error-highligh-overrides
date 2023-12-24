@@ -41,6 +41,8 @@ Workaround: conditionally override the commands used to render the respective er
 }
 ```
 
-You'll have to check `.pygstyle` file for the RGB codes matching your style (can be found in the generated files in Overleaf):
+You'll have to check `.pygstyle` file for the RGB codes matching your style (can be found under "other logs and files" in the warning/error window in Overleaf):
 
-![image](https://github.com/frederik-hoeft/minted-error-highligh-overrides/assets/43813142/5967a878-02cd-47e9-9f94-b3dc1b09e0ab)
+```text
+_minted-output/STYLE-NAME.pygstyle
+```
